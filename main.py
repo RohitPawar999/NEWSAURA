@@ -112,7 +112,7 @@ def main():
 
     # Sidebar
     st.sidebar.title("🌐 NewsAura 📰")
-    st.sidebar.image("C:/Users/rohit/OneDrive/Desktop/Power BI/OIP.png", use_column_width=True)
+    #st.sidebar.image("C:/Users/rohit/OneDrive/Desktop/Power BI/OIP.png", use_column_width=True)
     st.sidebar.markdown("---")
     st.sidebar.subheader("News Categories")
     selected_category = st.sidebar.selectbox("Select a category:", (
